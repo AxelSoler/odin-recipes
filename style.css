@@ -1,0 +1,9 @@
+.nombre {
+   color: blue;
+   text-align: center;
+   font-size: 36px;
+}
+.foto {
+    width: 400px;
+    height: auto;
+}
